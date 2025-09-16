@@ -1,16 +1,25 @@
-# api2
+# 🔗 LinkedIn API Demo
 
-A new Flutter project.
+A small Flutter project that demonstrates how to fetch LinkedIn profile data using **Dio** and the **Fresh LinkedIn Profile Data API** from RapidAPI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🌐 Fetch LinkedIn profile details via API
+- ⚡ Simple integration with **Dio**
+- 🔑 API authentication using headers
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter (Dart)
+- Dio (HTTP client)
+- RapidAPI (LinkedIn Profile Data API)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ▶️ How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/username/linkedin_api_demo.git
+   cd linkedin_api_demo
